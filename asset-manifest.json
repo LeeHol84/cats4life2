@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cats4Life2/static/css/main.05f00b6d.chunk.css",
+    "main.js": "/Cats4Life2/static/js/main.8bc43f0a.chunk.js",
+    "main.js.map": "/Cats4Life2/static/js/main.8bc43f0a.chunk.js.map",
+    "runtime-main.js": "/Cats4Life2/static/js/runtime-main.c1a9e5e8.js",
+    "runtime-main.js.map": "/Cats4Life2/static/js/runtime-main.c1a9e5e8.js.map",
+    "static/js/2.90918dfe.chunk.js": "/Cats4Life2/static/js/2.90918dfe.chunk.js",
+    "static/js/2.90918dfe.chunk.js.map": "/Cats4Life2/static/js/2.90918dfe.chunk.js.map",
+    "static/js/3.98fbf126.chunk.js": "/Cats4Life2/static/js/3.98fbf126.chunk.js",
+    "static/js/3.98fbf126.chunk.js.map": "/Cats4Life2/static/js/3.98fbf126.chunk.js.map",
+    "index.html": "/Cats4Life2/index.html",
+    "static/css/main.05f00b6d.chunk.css.map": "/Cats4Life2/static/css/main.05f00b6d.chunk.css.map",
+    "static/js/2.90918dfe.chunk.js.LICENSE.txt": "/Cats4Life2/static/js/2.90918dfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1a9e5e8.js",
+    "static/js/2.90918dfe.chunk.js",
+    "static/css/main.05f00b6d.chunk.css",
+    "static/js/main.8bc43f0a.chunk.js"
+  ]
+}
